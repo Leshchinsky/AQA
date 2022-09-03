@@ -1,3 +1,3 @@
 # AQA
 
-Home work 1 - JavaScript
+Home work 1 - JavaScript!
